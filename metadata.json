@@ -1,0 +1,6 @@
+{
+  "name": "AvtoMaslahat",
+  "description": "O'zbekistondagi haydovchilar va avtomobil xaridorlari uchun maslahatlar, avtomobillar savdosi, hisoblagichlar va testlar portali.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
